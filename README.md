@@ -49,6 +49,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 - **Samuele0001** - [Samuele0001](https://github.com/Samuele0001)
+- **MatteoBisotti - [MatteoBisotti](https://github.com/MatteoBisotti) 
 
 ---
 
